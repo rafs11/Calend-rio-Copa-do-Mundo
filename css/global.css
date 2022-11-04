@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --card-title-border-color: #746615;
+  --card-color-primary: #f7dd43;
+  --card-bg-color: #1d1c19;
+  --bg: url(../src/images/bg-yellow.svg);
+}
+
+body.blue {
+  --card-title-border-color: #338AF3;
+  --card-color-primary: #338AF3;
+  --card-bg-color: #202024;
+  --bg: url(../src/images/bg-blue.svg);
+}
+
+body.green {
+  --card-title-border-color: #047c3f;
+  --card-color-primary: #047c3f;
+  --card-bg-color: #1a1f1b;
+  --bg: url(../src/images/bg-green.svg);
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  background: #121214 var(--bg) no-repeat  top center/cover;
+}
+
+body * {
+  font-family: 'Roboto', sans-serif;
+}
