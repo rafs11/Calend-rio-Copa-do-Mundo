@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Calendário da Copa do Mundo de 2022 feito no evento Next Level Week da Rocketseat com todos os jogos da fase de grupos e com previsão minha até a final e, claro, com o Brasil sendo hexa! :brazil:
+Calendário da Copa do Mundo de 2022 feito no evento Next Level Week da Rocketseat com todos os jogos da fase de grupos e com previsão minha até a final e, claro, com o Brasil sendo hexa!
 
 ## 🔖 Layout
 
@@ -48,4 +48,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Rocketseat :wave:
